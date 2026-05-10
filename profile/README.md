@@ -14,6 +14,6 @@ All projects are licensed under **MPL-2.0**, which drives us to build modular co
 
 ## 🚧 Current Project
 
-### 🔗 [frame-suite](https://github.com/frame-suite)
+### 🔗 [frame-suite](https://github.com/auguth/frame-suite)
 
 Modular Substrate development and reusable FRAME-based infrastructure.
